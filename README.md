@@ -2,7 +2,7 @@
 Building network graphs from popular movie screenplays
 
 
-If you have downloaded Gephi (0.8.1 beta version) you can read the finished product directly.
+If you have downloaded Gephi (0.8.1 beta version) you can read the finished product directly (point it to the *.gephi files).
 Download Gephi @ http://gephi.github.io.
 
 
